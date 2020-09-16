@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/aggreation_merchant/holder-saas-aggregation-merchant/src/main/java/com/holderzone/holder/saas/aggregation/merchant/service/rpc/item/ItemClientService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_dto/holder-saas-store-dto/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/controller/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/controller/MiniAppController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/service/IEstimateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/service/IMiniAppService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/service/impl/IEstimateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/service/impl/IMiniAppServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_item/holder-saas-store-item/src/main/java/com/holderzone/saas/store/item/service/impl/ItemServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../mch_code/store_trade/holder-saas-store-trade/src/main/java/com/holderzone/saas/store/trade/HolderSaasStoreTradeApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../member_new_code_to_c/holder-saas-member-wechat/src/main/java/com/holderzone/holder/saas/member/wechat/controller/member/HsaOperationMemberInfoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../member_new_code_to_c/holder-saas-member-wechat/src/main/java/com/holderzone/holder/saas/member/wechat/entity/member/ResponseMemberFundingDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../open_platform_code/holder-open/holder-saas-open-aggregation/src/main/java/com/holderzone/open/aggregation/api/mall/MallItemApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../open_platform_code/holder-open/holder-saas-open-aggregation/src/main/java/com/holderzone/open/aggregation/feign/ItemMiniAppClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../open_platform_code/holder-saas-store-dto/src/main/java/com/holderzone/saas/store/dto/item/resp/ItemStockResp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/src/main/java/com.blog.member/Account.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/src/main/java/com.blog.member/Concern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/src/main/java/com.blog.member/ConcernAndFriends.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/src/main/java/com.blog.member/Friends.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-dto/src/main/java/com.blog.member/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/blog/saasbloguser/SaasBlogUserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/blog/saasbloguser/config/Swagger2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/blog/saasbloguser/controller/account/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/saas/blog/user/SaasBlogUserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/saas/blog/user/config/Swagger2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/saas/blog/user/controller/account/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/saas/blog/user/controller/member/MemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/java/com/saas/blog/user/controller/staff/StaffController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/saas-blog-user/src/test/java/com/saas/blog/user/SaasBlogUserApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
