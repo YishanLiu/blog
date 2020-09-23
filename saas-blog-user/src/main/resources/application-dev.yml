@@ -1,0 +1,6 @@
+dev:
+  eureka:
+    hostname: 192.168.102.181
+spring:
+  application:
+    name: saas-blog
