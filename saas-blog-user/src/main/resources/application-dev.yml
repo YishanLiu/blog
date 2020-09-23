@@ -7,19 +7,16 @@ spring:
 
 eureka:
   instance:
-    eureka:
-      instance:
-        #  定义服务失效的时间，默认为90秒。
-        lease-expiration-duration-in-seconds: 120
-        #    服务续约任务的调用间隔时间，默认为30秒
-        lease-renewal-interval-in-seconds: 5
-        prefer-ip-address: true
-        instance-id: ${spring.cloud.client.ip-address}:${server.port}
-        hostname: ${dev.eureka.hostname}
-        metadata-map:
-          cluster: default
-      client:
-        serviceUrl:
-          defaultZone: http://${dev.eureka.hostname}:8761/eureka/
-    #      访问地址：192.168.102.181:8761
-
+    #  定义服务失效的时间，默认为90秒。
+    lease-expiration-duration-in-seconds: 120
+    #    服务续约任务的调用间隔时间，默认为30秒
+    lease-renewal-interval-in-seconds: 5
+    prefer-ip-address: true
+    instance-id: ${spring.cloud.client.ip-address}:${server.port}
+    hostname: ${dev.eureka.hostname}
+    metadata-map:
+      cluster: default
+  client:
+    serviceUrl:
+      defaultZone: http://${dev.eureka.hostname}:8761/eureka/
+#      访问地址：192.168.102.181:8761
